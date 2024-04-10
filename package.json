@@ -1,0 +1,15 @@
+{
+  "name": "node_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Task_Scheduler.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-schedule": "^2.1.1"
+  }
+}
